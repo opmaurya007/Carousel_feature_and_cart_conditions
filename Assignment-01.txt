@@ -1,0 +1,7 @@
+First of all ,I am doing both the assignment together in a same project.
+
+1st assingnment and 2nd assignment ans both are together.
+
+i have using bootstrap,html,css and javascript .
+html is use for front UI and front UI styling is giving by css and and some template is used for bootstrap because it is very easy and quike method and also a responsive,
+javascrip is used logic , working of functionality as like button ,logics and condition, other things is doing by javascripts.
